@@ -8,3 +8,5 @@ tag: Life
 #New Beginning
 首次搭建了属于自己的BLOG，特别兴奋。
 希望自己可以每天多一点进步。
+
+![一切都会好起来的](https://github.com/Git-Y/git-y.github.io/blob/master/images/post/20190823.jpg)
