@@ -1,18 +1,18 @@
 # Basic
 title: Charles Yin
-subtitle: 个人站
-description: 九局下半~
+subtitle: Hello, I'm C.Y.Yin.
+description: 九局下半
 # 头像里面的标题
 avatarTitle: Git-Y
 # 头像里面的描述
-avatarDesc: Cut
+avatarDesc: Java
 url: "https://git-y.github.io/"
 
 # Comment
-comment:
-    disqus: leopard
-    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
-    # uyan: 2143225  # 有言id,登录有言官网申请
+# comment:
+#     disqus: leopard
+#     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
+#     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
@@ -27,8 +27,8 @@ social:
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
-baidu:
-    id: xxxx
+# baidu:
+#     id: xxxx
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
