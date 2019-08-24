@@ -3,7 +3,7 @@ layout: page
 title: 关于我
 ---
 
-目前在武汉理工大学读研，以后大概率从业于互联网方向。
+目前在武汉理工大学读研，以后大概率会从业于互联网方向。
 <p>
 喜欢看电影，佛系影迷，爱逛豆瓣和B站。
 <p>
@@ -11,5 +11,4 @@ title: 关于我
 <p>
 
 
-![C.Y.Yin](https://github.com/Git-Y/git-y.github.io/raw/master/images/post/aboutme.png)
 
