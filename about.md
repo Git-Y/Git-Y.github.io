@@ -9,3 +9,5 @@ title: 关于我
 <p>
 会一点剪辑，以前使用会声会影，现在用PR比较多。
 <p>
+
+![C.Y.Yin](https://github.com/Git-Y/git-y.github.io/raw/master/images/post/aboutme.png)
